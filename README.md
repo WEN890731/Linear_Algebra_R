@@ -1,2 +1,4 @@
 # Linear_Algebra_R
-線性代數_R語言
+線性代數 R語言實作
+
+
