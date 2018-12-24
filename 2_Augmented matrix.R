@@ -54,5 +54,6 @@ A6
 
 ### The whole operations can be written as a sequence of row operations 
 A 
-(Sol = R5 %*% R42 %*% R41 %*% R3 %*% R2 %*% R12 %*% R11 %*% A) 
-(Sol = round(Sol)) 
+Sol = R62 %*% R61 %*% R5 %*% R42 %*% R41 %*% R3 %*% R2 %*% R12 %*% R11 %*% A 
+Sol = round(Sol) 
+Sol
