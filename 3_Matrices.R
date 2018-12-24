@@ -79,8 +79,8 @@ det(A)
 
 # 3.14 Details on inverse matrices
 ## 下載套件 https://cran.r-project.org/web/packages/RConics/RConics.pdf
-install.packages("RConics")
-library(RConics)
+## install.packages("RConics")
+## library(RConics)
 A <- matrix(c(1, 4, 5, 3, 7, 2, 2, 8, 3), nrow = 3, ncol = 3)
 minor(A, 2, 3)
 cofactor(A, 2, 3)
