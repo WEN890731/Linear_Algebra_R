@@ -1,5 +1,6 @@
 # 線性代數 - R語言入門
-
+# HI
+# 嘿
 - 時間 : 2018/12/25(二) 12:10 - 13:00
 - 地點 : 學思樓040103教室
 - 書籍 : [Linear algebra in R](https://www.math.uh.edu/~jmorgan/Math6397/day13/LinearAlgebraR-Handout.pdf)
